@@ -1470,7 +1470,7 @@
     <conflict id="10a" category="Love and Courtship" subcategory="Love’s Beginning">
       <permutations>
         <permutation number="1"><description><character-link ref="B">B</character-link> is a criminal, and <character-link ref="A">A</character-link> is the detective who has arrested her.</description></permutation>
-        <permutation number="2"><description><character-link ref="B">B</character-link>, a criminal arrested by <character-link ref="A">A</character-link>, a detective, brings her charms to bear upon <character-link ref="A">A</character-link> in the hope of effecting her escape.</description></permutation>
+        <permutation number="2"><description><character-link ref="B">B</character-link>, a criminal arrested by <character-link ref="A">A</character-link>, an officer of the law, brings their charms to bear upon <character-link ref="A">A</character-link> in the hope of effecting their escape.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -2222,7 +2222,7 @@
     </conflict>
     <conflict id="23b" category="Love and Courtship" subcategory="Love’s Beginning">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, of an inferior race, falls in love with <character-link ref="A">A</character-link>, of a superior race.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, of a group of people society considers inferior, falls in love with <character-link ref="A">A</character-link>, of a group of people society treats as superior.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -2243,7 +2243,7 @@
     </conflict>
     <conflict id="23c" category="Love and Courtship" subcategory="Love’s Beginning">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, of an inferior race, falls in love with <character-link ref="B">B</character-link>, of a superior race.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, of a group of people society considers inferior, falls in love with <character-link ref="B">B</character-link>, of a group of people society treats as superior.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -3272,7 +3272,7 @@
     </conflict>
     <conflict id="48" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> knew very well that he would suffer adversity all his life when, in order to cancel an obligation he gave his daughter, <character-link ref="D-A">D-A</character-link>, in marriage to <character-link ref="A-8">A-8</character-link>, a man she did not love.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> knew very well that A would suffer adversity all A's life when, in order to cancel an obligation A gave A's daughter, <character-link ref="D-A">D-A</character-link>, in marriage to <character-link ref="A-8">A-8</character-link>, a person she did not love.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -4892,7 +4892,7 @@
     </conflict>
     <conflict id="88" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, in order to carry out an enterprise considered necessary, offers to sell herself in marriage to the highest bidder.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, in order to carry out an enterprise considered necessary, offers to sell themself in marriage to the highest bidder.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -8398,7 +8398,7 @@
     </conflict>
     <conflict id="178" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link> promises to meet <character-link ref="A">A</character-link>, her lover, at her home and introduce him to her parents. <character-link ref="A">A</character-link>, arriving in advance of <character-link ref="B">B</character-link>, is mistaken for <character-link ref="A-7">A-7</character-link>, a man who is expected to call and apply for the position of butler.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link> promises to meet <character-link ref="A">A</character-link>, their lover, at B's home and introduce A to B's parents. <character-link ref="A">A</character-link>, arriving in advance of <character-link ref="B">B</character-link>, is mistaken for <character-link ref="A-7">A-7</character-link>, an individual who is expected to call and apply for the position of household assistant.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -10399,7 +10399,7 @@
     </conflict>
     <conflict id="229" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, of an inferior race, in seeking to win the love of <character-link ref="A">A</character-link>, of a superior lace, learns how hopeless is the task of challenging racial conventions.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, of a group of people society considers inferior, in seeking to win the love of <character-link ref="A">A</character-link>, of a group of people society treats as superior, learns how hopeless is the task of challenging social conventions.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -10695,7 +10695,7 @@
     <conflict id="238" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
         <permutation number="1">
-          <description><character-link ref="A">A</character-link> is engaged to marry <character-link ref="B">B</character-link>. <character-link ref="B-3">B-3</character-link>, a designing woman, seeks to compromise <character-link ref="A">A</character-link> so <character-link ref="B">B</character-link> will give him up. <character-link ref="B-2">B-2</character-link> is a generous woman who seeks by secret enterprise to rescue <character-link ref="A">A</character-link> from the wiles of <character-link ref="B-3">B-3</character-link> and restore him to <character-link ref="B">B</character-link>.</description>
+          <description><character-link ref="A">A</character-link> is engaged to marry <character-link ref="B">B</character-link>. <character-link ref="B-3">B-3</character-link>, a designing woman, seeks to compromise <character-link ref="A">A</character-link> so <character-link ref="B">B</character-link> will give him up. <character-link ref="B-2">B-2</character-link> is a generous person who seeks by secret enterprise to rescue <character-link ref="A">A</character-link> from the wiles of a designing person, <character-link ref="B-3">B-3</character-link>, and restore A to <character-link ref="B">B</character-link>.</description>
           <includes>
             <group mode="choose">
               <conflict-link ref="218a" category="Love and Courtship" subcategory="Love’s Rejection"/>
@@ -10955,7 +10955,7 @@
     </conflict>
     <conflict id="246a" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, in love with <character-link ref="B">B</character-link>, of an inferior race, seeks to abandon <character-link ref="B">B</character-link> secretly in order to uphold a lofty conception of duty.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, in love with <character-link ref="B">B</character-link>, of a group of people society considers inferior, seeks to abandon <character-link ref="B">B</character-link> secretly in order to uphold a lofty conception of duty.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -11297,7 +11297,7 @@
     </conflict>
     <conflict id="255" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, with a taint of negro blood in his veins—known only to himself—loves and is beloved by <character-link ref="B">B</character-link>, a white girl.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, with a taint of a group of people society considers inferior in their veins—known only to themself—loves and is beloved by <character-link ref="B">B</character-link>, a person society treats as superior.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -13851,7 +13851,7 @@
     </conflict>
     <conflict id="323" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, of alien blood and inferior race, is abandoned by <character-link ref="A">A</character-link>, a white man with whom she is in love.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, of alien blood and a group of people society considers inferior, is abandoned by <character-link ref="A">A</character-link>, a modern person from a developed country with whom she is in love.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -14159,7 +14159,7 @@
     <conflict id="331" category="Love and Courtship" subcategory="Love’s Rejection">
       <permutations>
         <permutation number="1">
-          <description><character-link ref="B">B</character-link>, a Polynesian woman, challenges racial conventions by falling in love with <character-link ref="A">A</character-link> , a white man.</description>
+          <description><character-link ref="B">B</character-link>, a Polynesian person, challenges racial conventions by falling in love with <character-link ref="A">A</character-link> , a modern person from a developed country.</description>
           <includes>
             <group mode="choose">
               <conflict-link ref="687" category="Enterprise" subcategory="Misfortune"/>
@@ -14949,7 +14949,7 @@
     </conflict>
     <conflict id="352a" category="Love and Courtship" subcategory="Marriage">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> masquerades as a servant in the household of <character-link ref="F-B">F-B</character-link>, father of <character-link ref="B">B</character-link>, the girl he loves.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> masquerades as a household assistant in the residence of <character-link ref="F-B">F-B</character-link>, father of <character-link ref="B">B</character-link>, the person A loves.</description></permutation>
         <permutation number="2">
           <description><character-link ref="A">A</character-link>, enacting the role of a servant, rescues <character-link ref="B">B</character-link> from an accident by heroic bravery not at all in the manner of a menial.</description>
           <includes>
@@ -15499,7 +15499,7 @@
     <conflict id="364c" category="Love and Courtship" subcategory="Marriage">
       <permutations>
         <permutation number="1">
-          <description><character-link ref="A">A</character-link>, with a taint of inferior blood in his veins, is in love with <character-link ref="B">B</character-link>, supposedly a white girl. He is about to give <character-link ref="B">B</character-link> up when he discovers that <character-link ref="B">B</character-link> also has a taint of inferior blood.</description>
+          <description><character-link ref="A">A</character-link>, with a taint of inferior blood in their veins, is in love with <character-link ref="B">B</character-link>, supposedly a person society treats as superior. A is about to give <character-link ref="B">B</character-link> up when A discovers that <character-link ref="B">B</character-link> also has a taint of inferior blood.</description>
           <includes>
             <group mode="choose">
               <conflict-link ref="255" category="Love and Courtship" subcategory="Love’s Rejection">
@@ -22056,7 +22056,7 @@
       <permutations>
         <permutation number="1"><description><character-link ref="A">A</character-link>’s wife, <character-link ref="B">B</character-link>, is murdered at a certain hour of the night.</description></permutation>
         <permutation number="2">
-          <description><character-link ref="A">A</character-link> is suspected of having murdered his wife, <character-link ref="B">B</character-link>; but, at the hour the murder was committed, <character-link ref="A">A</character-link> was with <character-link ref="B-3">B-3</character-link> a woman of spotless reputation and happily married.</description>
+          <description><character-link ref="A">A</character-link> is suspected of having murdered B; but, at the hour the murder was committed, <character-link ref="A">A</character-link> was with <character-link ref="B-3">B-3</character-link>, a person of spotless reputation and happily partnered.</description>
           <includes>
             <group mode="choose">
               <conflict-link ref="411a" category="Married Life" subcategory="Marriage">
@@ -26366,7 +26366,7 @@
     </conflict>
     <conflict id="647" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, a respectable working girl, seeking employment, follows the advice of a supposed friend, <character-link ref="A-5">A-5</character-link>, and finds herself in an immoral dance hall where she is compelled to dance with patrons and serve drinks.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, a worker seeking employment, follows the advice of a supposed friend, <character-link ref="A-5">A-5</character-link>, and finds themself in an unauthorized social gathering where B is compelled to dance with patrons and serve drinks.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -26456,7 +26456,7 @@
     </conflict>
     <conflict id="650" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, a white man cast away among bloodthirsty savages, has his life spared because he is a ventriloquist and supposed to be a god.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, a modern person from a developed country cast away among bloodthirsty savages, has their life spared because they are a ventriloquist and supposed to be a god.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -27562,7 +27562,7 @@
     </conflict>
     <conflict id="682" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, a white man of brilliant intellectual attainments, battles for existence in an isolated, primitive, savage wilderness.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, a modern person from a developed country of brilliant intellectual attainments, battles for existence in an isolated, primitive, savage wilderness.</description></permutation>
         <permutation number="2"><description><character-link ref="A">A</character-link>, battling for existence in a savage wilderness, suffers a deterioration of character until, after some years, he sinks to the level of his primitive surroundings.</description></permutation>
       </permutations>
       <lead-ups>
@@ -27715,8 +27715,8 @@
     </conflict>
     <conflict id="687" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> finds himself the only white man in a tribe of half-savage natives.</description></permutation>
-        <permutation number="2"><description><character-link ref="A">A</character-link>, finding himself the only white man in a tribe of half-savage natives, is compelled to struggle against their primitive superstitions.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> finds themself the only modern person from a developed country in a tribe of half-savage natives.</description></permutation>
+        <permutation number="2"><description><character-link ref="A">A</character-link>, finding themself the only modern person from a developed country in a tribe of half-savage natives, is compelled to struggle against their primitive superstitions.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -34090,7 +34090,7 @@
     </conflict>
     <conflict id="861" category="Enterprise" subcategory="Deliverance">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, of an inferior race, rescues <character-link ref="B">B</character-link>, of a superior race, from accident.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, of a group of people society considers inferior, rescues <character-link ref="B">B</character-link>, of a group of people society treats as superior, from accident.</description></permutation>
         <permutation number="2"><description><character-link ref="A">A</character-link>, when he rescues <character-link ref="B">B</character-link>, becomes involved in an unpleasant complication, due to mistaken judgment.</description></permutation>
       </permutations>
       <lead-ups>
@@ -38053,7 +38053,7 @@
     </conflict>
     <conflict id="973" category="Enterprise" subcategory="Idealism">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, a white man battling against the superstitious frenzy of a half-savage tribe stricken with the plague, upholds the highest ideals of the white man’s civilization.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, a modern person from a developed country battling against the superstitious frenzy of a half-savage tribe stricken with the plague, upholds the highest ideals of the developed country’s civilization.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -47755,7 +47755,7 @@
     </conflict>
     <conflict id="1258" category="Enterprise" subcategory="Craftiness">
       <permutations>
-        <permutation number="1"><description><character-link ref="B">B</character-link>, a woman criminal arrested by <character-link ref="A-6">A-6</character-link>, a detective, seeks to effect her escape by artful strategy.</description></permutation>
+        <permutation number="1"><description><character-link ref="B">B</character-link>, a criminal arrested by <character-link ref="A-6">A-6</character-link>, an officer of the law, seeks to effect their escape by artful strategy.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
