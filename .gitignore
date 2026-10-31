@@ -4,3 +4,7 @@ bin/
 lib/
 share/
 include/
+
+# Claude Code
+.claude/
+CLAUDE.md
